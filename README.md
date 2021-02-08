@@ -2,7 +2,7 @@
 
 This example support simple ether transactions and contract transactions under sendMultiSig & sendMultiSigToken  
 
-To run example
+## To run example
 
 ```
 
@@ -11,7 +11,7 @@ yarn start
 
 ```
 
-example output
+## example output
 
 ```
 resUSDT {
@@ -40,7 +40,7 @@ resBitstampTokenUSD {
   txValue: '1264652040'
 }
 ```
-Check /src/utils/decodeTransactionTools.ts for the implementation
-To add coin, add in /src/utils/supportCoin.ts
+### Check /src/utils/decodeTransactionTools.ts for the implementation
+### To add coin, add in /src/utils/supportCoin.ts
 
 
